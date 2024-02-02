@@ -50,3 +50,5 @@ branch - ветка
 git branch name - создание ветки
 
 GitHub
+
+* Привет из Самары
